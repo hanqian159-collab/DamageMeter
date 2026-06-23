@@ -1,3 +1,5 @@
+﻿> **⚠️ 半成品 / Work in Progress** — 此模组已基本完成所有Hook注册（StatusManager.Hit → ScriptExecutor.Damage/ChangeHp/PureChangeHp → ScriptExecutor.AddBuff → StatusManager.AddBuff → BuffItem.ApplyBuff/BuffProcess），统计面板 UI、详情弹窗、拖动、进度条均已完成。已知问题/待完善项请见 Issues 或仓库讨论区。
+
 # DamageMeter
 
 战斗输出统计模组。
