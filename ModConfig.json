@@ -1,0 +1,13 @@
+{
+  "ModName": "DamageMeter",
+  "ModVersion": "1.4.1",
+  "ModAuthor": "哈基米",
+  "ModDescription": "战斗输出统计悬浮面板：显示本回合、本场与友方整局输出，并支持伤害详情查看。",
+  "IconPath": "Icon.png",
+  "Enabled": true,
+  "Hotkey": "F8",
+  "Dependencies": null,
+  "MustSame": false,
+  "WorkshopVisibility": "Private",
+  "PublishedFileId": ""
+}
